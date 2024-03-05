@@ -1,6 +1,6 @@
 function getPostsFromAPI() {
   // Replace this with the URL of the JSON API that returns an array of image URLs
-  const url = 'YOUR_URL_GOES_HERE';
+  const url = 'https://8000-riichif-tacogramfinalfr-tp21f8wip6z.ws-us108.gitpod.io/';
 
   // Make a GET request to the API
   fetch(url)
